@@ -23,4 +23,4 @@ Sistema de linha de comando (CLI) desenvolvido em Python para gerenciar gastos p
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/vyvymene/python-aulas.git
+git clone https://github.com/vyvymene/projetos-python.git
